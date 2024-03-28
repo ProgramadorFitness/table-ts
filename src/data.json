@@ -1,0 +1,212 @@
+[
+    {
+        "nombre": "Ana",
+        "apellido": "González",
+        "ciudad": "Madrid",
+        "telefono": "600123456",
+        "direccion": "Calle Principal 123"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Martínez",
+        "ciudad": "Barcelona",
+        "telefono": "601234567",
+        "direccion": "Avenida Diagonal 456"
+    },
+    {
+        "nombre": "María",
+        "apellido": "López",
+        "ciudad": "Valencia",
+        "telefono": "602345678",
+        "direccion": "Plaza Mayor 789"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Fernández",
+        "ciudad": "Sevilla",
+        "telefono": "603456789",
+        "direccion": "Calle Real 10"
+    },
+    {
+        "nombre": "Sofía",
+        "apellido": "Rodríguez",
+        "ciudad": "Bilbao",
+        "telefono": "604567890",
+        "direccion": "Paseo de la Concha 15"
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Sánchez",
+        "ciudad": "Málaga",
+        "telefono": "605678901",
+        "direccion": "Calle del Mar 20"
+    },
+    {
+        "nombre": "Elena",
+        "apellido": "Pérez",
+        "ciudad": "Alicante",
+        "telefono": "606789012",
+        "direccion": "Avenida del Puerto 25"
+    },
+    {
+        "nombre": "Miguel",
+        "apellido": "Hernández",
+        "ciudad": "Zaragoza",
+        "telefono": "607890123",
+        "direccion": "Calle del Sol 30"
+    },
+    {
+        "nombre": "Lucía",
+        "apellido": "Gómez",
+        "ciudad": "Murcia",
+        "telefono": "608901234",
+        "direccion": "Plaza del Ayuntamiento 35"
+    },
+    {
+        "nombre": "Alejandro",
+        "apellido": "Díaz",
+        "ciudad": "Granada",
+        "telefono": "609012345",
+        "direccion": "Avenida de la Alhambra 40"
+    },
+    {
+        "nombre": "Paula",
+        "apellido": "Muñoz",
+        "ciudad": "Córdoba",
+        "telefono": "610123456",
+        "direccion": "Calle de la Mezquita 45"
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "Ruiz",
+        "ciudad": "Santander",
+        "telefono": "611234567",
+        "direccion": "Paseo Marítimo 50"
+    },
+    {
+        "nombre": "Carmen",
+        "apellido": "Romero",
+        "ciudad": "Oviedo",
+        "telefono": "612345678",
+        "direccion": "Calle del Cid 55"
+    },
+    {
+        "nombre": "Diego",
+        "apellido": "Alonso",
+        "ciudad": "Valladolid",
+        "telefono": "613456789",
+        "direccion": "Avenida del Pisuerga 60"
+    },
+    {
+        "nombre": "Alba",
+        "apellido": "Sanchez",
+        "ciudad": "Salamanca",
+        "telefono": "614567890",
+        "direccion": "Calle de la Rúa 65"
+    },
+    {
+        "nombre": "Iván",
+        "apellido": "Gutierrez",
+        "ciudad": "Toledo",
+        "telefono": "615678901",
+        "direccion": "Plaza de Zocodover 70"
+    },
+    {
+        "nombre": "Alicia",
+        "apellido": "Torres",
+        "ciudad": "Cáceres",
+        "telefono": "616789012",
+        "direccion": "Calle del Perú 75"
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Marín",
+        "ciudad": "Jaén",
+        "telefono": "617890123",
+        "direccion": "Avenida de Andalucía 80"
+    },
+    {
+        "nombre": "Eva",
+        "apellido": "Ortega",
+        "ciudad": "Ávila",
+        "telefono": "618901234",
+        "direccion": "Calle del Rastro 85"
+    },
+    {
+        "nombre": "Sergio",
+        "apellido": "Jiménez",
+        "ciudad": "Huelva",
+        "telefono": "619012345",
+        "direccion": "Paseo de la Ría 90"
+    },
+    {
+        "nombre": "Nerea",
+        "apellido": "Molina",
+        "ciudad": "León",
+        "telefono": "620123456",
+        "direccion": "Calle de la Paloma 95"
+    },
+    {
+        "nombre": "Rubén",
+        "apellido": "Serrano",
+        "ciudad": "Burgos",
+        "telefono": "621234567",
+        "direccion": "Avenida del Cid 100"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Rojas",
+        "ciudad": "Segovia",
+        "telefono": "622345678",
+        "direccion": "Plaza Mayor 105"
+    },
+    {
+        "nombre": "Marcos",
+        "apellido": "Ramírez",
+        "ciudad": "Cuenca",
+        "telefono": "623456789",
+        "direccion": "Calle del Almendro 110"
+    },
+    {
+        "nombre": "Sara",
+        "apellido": "Navarro",
+        "ciudad": "Teruel",
+        "telefono": "624567890",
+        "direccion": "Avenida del Ensanche 115"
+    },
+    {
+        "nombre": "Hugo",
+        "apellido": "Delgado",
+        "ciudad": "Lleida",
+        "telefono": "625678901",
+        "direccion": "Calle de la Paz 120"
+    },
+    {
+        "nombre": "Natalia",
+        "apellido": "López",
+        "ciudad": "Gerona",
+        "telefono": "626789012",
+        "direccion": "Paseo de la Devesa 125"
+    },
+    {
+        "nombre": "Adrián",
+        "apellido": "Herrera",
+        "ciudad": "Tarragona",
+        "telefono": "627890123",
+        "direccion": "Avenida Catalunya 130"
+    },
+    {
+        "nombre": "Emma",
+        "apellido": "Ferrer",
+        "ciudad": "Huesca",
+        "telefono": "628901234",
+        "direccion": "Calle Mayor 135"
+    },
+    {
+        "nombre": "Raúl",
+        "apellido": "Cano",
+        "ciudad": "Pamplona",
+        "telefono": "629012345",
+        "direccion": "Paseo Sarasate 140"
+    }
+]
